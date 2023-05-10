@@ -25,4 +25,4 @@ pip install (copy file name and paste here)
 Step-3 
 pip install face-recognition
 
-Note: the whl dlib files cp37 means CPython 3.7,  cp38 means CPython 3.8 and so on.
+***Note: the whl dlib files cp37 means CPython 3.7,  cp38 means CPython 3.8 and so on.***
