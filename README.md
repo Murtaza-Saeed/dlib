@@ -4,7 +4,7 @@ Friends, Today i'm gona show you how to install dlib and face-recognition python
 (Search in Youtube: Murtaza i Tech) (video link: https://youtu.be/qImLubzBOWg)
 
 This covers following topis:
-Failed to build dlib | failed building wheel for dlib | face recognition installation error solved | pip install dlib error | pip install cmake error | pip install face-recognition error | dlib library install problem solved | face recognition python library install problem solved | How to install dlib | How to install face recognition library | how to install cmake library
+Failed to build dlib | failed building wheel for dlib | face recognition installation error solved | pip install dlib error | pip install cmake error | pip install face-recognition error | dlib library install problem solved | face recognition python library install problem solved | How to install dlib | How to install face recognition library | how to install cmake library | error legacy install failure | not supported wheel for dlib
 
 You can also fix all type of Problems related to dlib
 
