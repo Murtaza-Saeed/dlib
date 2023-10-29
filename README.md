@@ -1,7 +1,7 @@
 # dlib
 Hi Friends, there is all dlib wheel files for python version 7 to 11.. For more versions contact me!!!
 Friends, Today i'm gona show you how to install dlib and face-recognition python library (pakages) without any errors just in 3 steps. Faild to build dlib OR Failed building wheel for dlib problems solved. Now you can easily install face recognition python library by watching this video. 
-(***Search in Youtube: Murtaza i Tech***) (video link: https://youtu.be/qImLubzBOWg)
+(***Search in Youtube: Murtaza i Tech***) (video link: https://youtu.be/cV4-uMobeM4?si=-kG7L7SjzgulNMKO)
 
 This covers following topis:
 Failed to build dlib | failed building wheel for dlib | face recognition installation error solved | pip install dlib error | pip install cmake error | pip install face-recognition error | dlib library install problem solved | face recognition python library install problem solved | How to install dlib | How to install face recognition library | how to install cmake library | error legacy install failure | not supported wheel for dlib
